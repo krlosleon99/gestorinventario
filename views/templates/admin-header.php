@@ -1,5 +1,5 @@
 <header class="dashboard__header">
-    <div class="dashboard__grid">
+
 
         <a href="/dashboard/home">
             <h2 class="dashboard__logo">
@@ -14,5 +14,4 @@
             </form>
         </div>
 
-    </div>
 </header>
